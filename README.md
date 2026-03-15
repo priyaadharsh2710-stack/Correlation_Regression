@@ -66,6 +66,10 @@ plt.legend(['Regression Line', 'Data points'])
 plt.grid(True) 
 plt.show()
 ```
-# Result
 
 # Output 
+
+# Result 
+coefficient of correlation and regression line analysed successfully.
+
+https://github.com/priyaadharsh2710-stack/Correlation_Regression.git
