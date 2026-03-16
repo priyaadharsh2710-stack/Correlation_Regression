@@ -7,6 +7,7 @@ To analyse given data using coeffificient of correlation and regression line
 
 # Software required :  
 
+
 Python
 
 # Theory:
@@ -68,6 +69,8 @@ plt.show()
 ```
 
 # Output 
+
+![alt text](<maths 3.jpeg>)
 
 # Result 
 coefficient of correlation and regression line analysed successfully.
